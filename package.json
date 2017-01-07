@@ -1,6 +1,6 @@
 {
   "name": "html-decoder",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "decodes html",
   "main": "index.js",
   "author": "Emil Johansson <emiljohansson.se@gmail.com>",
