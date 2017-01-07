@@ -1,0 +1,15 @@
+{
+  "name": "html-decoder",
+  "version": "0.0.0",
+  "description": "decodes html",
+  "main": "index.js",
+  "author": "Emil Johansson <emiljohansson.se@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "ava"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.17.0"
+  }
+}
